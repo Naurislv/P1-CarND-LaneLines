@@ -1,5 +1,8 @@
 # P1-CarND-LaneLines
 First project submission at Udacity Self Driving Nanodegree program - detecting lanes using computer vision
+
+Full description and code can be found in P1.ipynb
+
 #**Finding Lane Lines on the Road** 
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
